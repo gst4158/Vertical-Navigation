@@ -7,7 +7,7 @@
 ***
 
 ### [→ JsFiddle ←](https://jsfiddle.net/hjb6631d/3/)
-### [→ Demo File ←](http://github.com/gst4158/example.html)
+### [→ Demo File ←](https://github.com/gst4158/Vertical-Navigation/blob/master/example.html)
 ***
 
 Detailed Explaination
