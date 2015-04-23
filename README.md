@@ -15,4 +15,4 @@ Detailed Explaination
 
 How does it work? 
 
-* Travel up and down the dom via target selectors activating on click functions* 
+* Travel up and down the dom via target selectors activating on click functions
